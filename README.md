@@ -25,4 +25,5 @@ We have many comptetitor ! for overcoming them we need to recogonize and getting
 
 [**Torob**](https://torob.com/browse/99/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%88-%D9%86%D9%88%D8%AA-%D8%A8%D9%88%DA%A9-laptop/) is a Comprehensive website, because it has a big Variety laptops and prices from all market, so it's best target to _Crawling_
 
-website use *api structures*, so need a little more time for crawling currectly and also our raw data need a huge cleaning (some datas are not in right position, first we should with text scraping method replace them by correct value)
+website use *api structures*, so need a little more time for crawling currectly and also our raw data need a huge cleaning
+> some datas are not in right position, first we should with text scraping method replace them by correct value, you can check [torob_cleaning](https://github.com/Mahdi-mghs/Retrieve_Market/blob/main/Crawl/torob_cleaning.ipynb) for more details
