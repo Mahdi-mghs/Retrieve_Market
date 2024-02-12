@@ -23,6 +23,16 @@ Also we additionally add USD_Toman_History for Taking the fluctuations of the co
 
 We have many comptetitor ! for overcoming them we need to recogonize and getting their datas for compare our data
 
+## part4: Dashbords
+### First dashbord: quantity of orders by branch over time(yearly)
+In this dashboard, there are two graphs, one shows the total number of orders to Tekfik provinces and the other shows the trend of the same over time.
+The reason for the significant difference in the numbers related to the last year and the first year is the incompleteness of the data.
+
+
+![001](https://github.com/Mahdi-mghs/Retrieve_Market/assets/77622627/2acb549c-5b91-45aa-8305-27a44e1eb9c7)
+
+
+
 [**Torob**](https://torob.com/browse/99/%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D9%88-%D9%86%D9%88%D8%AA-%D8%A8%D9%88%DA%A9-laptop/) is a Comprehensive website, because it has a big Variety laptops and prices from all market, so it's best target to _Crawling_
 
 website use *api structures*, so need a little more time for crawling currectly and also our raw data need a huge cleaning
